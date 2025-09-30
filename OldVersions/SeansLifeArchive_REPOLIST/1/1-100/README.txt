@@ -2,7 +2,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: SeansLifeArchive_REPOLIST.urll
 //// A list of all SeansLifeArchive project repositories by @seanpm2001
-//// As of 2025, Wednesday, September 24th
+//// As of 2025, Monday, September 29th
 
 //// Subprojects of the Sean Patrick Myrick Life Archive project
 
@@ -28,7 +28,7 @@ https://github.com/seanpm2001/SeansLifeArchive_Daily-articles
 
 https://github.com/seanpm2001/SeansLifeArchive_Sleeve
 
-//// SeansLifeArchive / Extras (39)
+//// SeansLifeArchive / Extras (442)
 
 https://github.com/seanpm2001/SeansLifeArchive_Extras
 https://github.com/seanpm2001/SeansLifeArchive_Extras_APK-Archive
@@ -69,6 +69,9 @@ https://github.com/seanpm2001/SeansLifeArchive_Extras_Field-Report
 https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center
 https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Travel-Log
 https://github.com/seanpm2001/SeansLifeArchive_Extras_MedicalIndex
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center_Y2026
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center_Y2027
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center_Y2028
 
 //// SeansLifeArchive / Maps (2)
 
@@ -470,8 +473,8 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_Disco-Zoo_Website
 https://github.com/seanpm2001/SeansLifeArchive_Images_Bit-City_Website
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SeansLifeArchive): 432
-//// 1+1+1+39+2+375+13=432
+//// Repo count (SeansLifeArchive): 435
+//// 1+1+1+42+2+375+13=435
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -485,15 +488,15 @@ https://github.com/seanpm2001/Seanpm2001-Public-Media-Gallery
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 433
-//// 432+1=433
+//// Total repo count: 436
+//// 435+1=436
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Wednesday, September 24th at 09:05 pm PST)
-//// Line count (including blank lines and compiler line): 500
+//// File version: 4 (2025, Monday, September 29th at 07:01 pm PST)
+//// Line count (including blank lines and compiler line): 503
 //// ----------------------------------------------------- \\\\
 
 //// End of file
